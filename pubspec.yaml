@@ -1,7 +1,7 @@
 name: expanded_floating_button
-description: A new Flutter package project.
+description: A new flutter plugin to customize to import a floating button with custom actions in your views.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rologr35/expanded_floating_button.git
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  rxdart: any
+  rxdart: ^0.27.3
 
 dev_dependencies:
   flutter_test:
