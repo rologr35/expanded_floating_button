@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-A new flutter plugin to customize to import a floating button with custom actions in your views.
+A new flutter plugin to customize the import of a floating button with custom actions in your views.
 
 ## Usage
 
